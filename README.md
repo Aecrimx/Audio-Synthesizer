@@ -1,7 +1,7 @@
 # Audio Synthesizer
 
-###Descriere
-Sintetizator Audio implementat in C++ cu libraria JUCE. Propun sa implementez un sintetizator polifonic, cu support MIDI, al carui parametrii ii putem modifica, cat si implementarea a unor efecte simple audio
+### Descriere
+Sintetizator Audio implementat in C++ cu libraria JUCE. Propun sa implementez un sintetizator polifonic, cu support MIDI, al carui parametrii ii putem modifica, cat si implementarea a unor efecte simple audio (reverb, delay).
 
 ### Folosiți template-ul corespunzător grupei voastre!
 
