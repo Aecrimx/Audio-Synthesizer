@@ -1,4 +1,7 @@
-# Nu primesc notă pentru că nu am pus titlu și descriere
+# Audio Synthesizer
+
+###Descriere
+Sintetizator Audio implementat in C++ cu libraria JUCE. Propun sa implementez un sintetizator polifonic, cu support MIDI, al carui parametrii ii putem modifica, cat si implementarea a unor efecte simple audio
 
 ### Folosiți template-ul corespunzător grupei voastre!
 
